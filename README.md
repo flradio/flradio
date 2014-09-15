@@ -1,5 +1,1 @@
-flradio
-=======
-
-Radio online de Daule Ecuador
-Sofware libre
+<iframe src='http://player.inimusic.com/mashter/player/webplayershoutcast/7/0d50f282b0d254a71d75ea9a4c2692c7.html' width='310' height='230' scrolling='no' style='margin: 0;padding: 0; border: none;'> webplayer powered by <a href='http://webplayershoutcast.com/'>webplayershoutcast.com</a><br/> <a href='http://www.webplayershoutcast.com' title='Powered by webplayershoutcast.com'>Powered by webplayershoutcast.com</a> </iframe><br/> <center> <a href=' http://s15.myradiostream.com/tunein/flradio.pls'><img border=0 src='http://s15.myradiostream.com/system/images/tunein-pls.png'></a> <a href=' http://s15.myradiostream.com/tunein/flradio.asx'><img border=0 src='http://s15.myradiostream.com/system/images/tunein-asx.png'></a> <a href=' http://s15.myradiostream.com/tunein/flradio.ram'><img border=0 src='http://s15.myradiostream.com/system/images/tunein-ram.png'></a> <a href=' http://s15.myradiostream.com/tunein/flradio.qtl'><img border=0 src='http://s15.myradiostream.com/system/images/tunein-qtl.png'></a> <a href='http://webplayershoutcast.com' target='_blank'>powered by Web Player</a> </center>
